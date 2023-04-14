@@ -2,6 +2,7 @@ import UIKit
 import Core
 import UIComponents
 
+//https://betterprogramming.pub/ios-app-modularisation-the-starting-point-1419db0474ed
 public class OnboardingViewController: UIViewController {
     
     @Injected private var networkWorker: Networking
